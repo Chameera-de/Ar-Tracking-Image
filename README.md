@@ -5,6 +5,6 @@ This project is a quick & dirty repurposing of Apple's ARKit 1 project "Recogniz
 
 There was a request for video that floats above/perpendicular to the recognized reference image, if you're interested in that check out the 'floating-video' branch.
 
-![ARKit 2 Image Tracking Demo Gif](//1.gif)
+![ARKit 2 Image Tracking Demo Gif](1.gif)
 
 ##Copyright - Chameera De Silva 
